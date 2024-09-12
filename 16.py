@@ -7,4 +7,6 @@ def F(n):
         elif n%2==0:
             return 3*F(n-1)
 print(F(35))
+
+print('Иван Трещалин пидорас ')
         
